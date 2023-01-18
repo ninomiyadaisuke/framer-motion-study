@@ -38,7 +38,6 @@ const Home = ({
       <Testimonials testimonialData={testimonialData} />
       <Footer footerData={footerData} />
       <Copyright />
-      <div className="h-[2000px]"></div>
     </div>
   );
 };
